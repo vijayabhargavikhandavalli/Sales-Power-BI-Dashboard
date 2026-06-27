@@ -7,7 +7,7 @@ An interactive **Sales Analytics Dashboard** built in **Microsoft Power BI** to 
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Sales Dashboard" width="100%">
+  <img src="Screenshot 2026-06-27 173235.png" alt="Sales Dashboard" width="100%">
 </p>
 
 ---
