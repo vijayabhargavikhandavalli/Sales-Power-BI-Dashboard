@@ -4,13 +4,6 @@ An interactive **Sales Analytics Dashboard** built in **Microsoft Power BI** to 
 
 ---
 
-## 📸 Dashboard Preview
-
-<p align="center">
-  <img src="Screenshot 2026-06-27 173235.png" alt="Sales Dashboard" width="100%">
-</p>
-
----
 
 ## 🚀 Project Overview
 
@@ -149,7 +142,12 @@ git clone https://github.com/yourusername/Sales-Power-BI-Dashboard.git
 - 📧 Email: vijayakhandavalli13@gmail.com
 
 ---
+## 📸 Dashboard Preview
 
+<p align="center">
+  <img src="Screenshot 2026-06-27 173235.png" alt="Sales Dashboard" width="100%">
+</p>
+---
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
